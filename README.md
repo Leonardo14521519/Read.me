@@ -1,5 +1,5 @@
 <!-- Hi there 👋 Leonardo14521519 -->
-<h1 align="center">Hi, I'm Leonardo! 👋</h1>
+<h1 align="center">Hi, I'm Nhlanhla Dlamini! 👋</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/Leonardo14521519?v=4" width="120" alt="Leonardo's avatar" style="border-radius:50%;">
@@ -18,7 +18,7 @@
 - 💡 Interested in: **Open source, web dev, AI, and more!**
 - 👯 Looking to collaborate on: **[Types of projects or repos]**
 - 💬 Ask me about: **[Your expertise topics]**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me @example.com)**
 
 ---
 
