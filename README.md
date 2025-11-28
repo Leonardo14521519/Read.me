@@ -17,13 +17,13 @@
 - 🌱 I’m learning: **[Tech, frameworks, languages]**
 - 💡 Interested in: **Open source, web dev, AI, and more!**
 - 👯 Looking to collaborate on: **[Types of projects or repos]**
-- 💬 Ask me about: **[Your expertise topics]**
+- 💬 Ask me about: **[ particle physics, nuclear physics, condensed matter physics, mathematical physics focusingon quantum field theory and chemical engineering]**
 - 📫 Reach me @example.com)**
 ---[dlaminisedney@gmail.com](dlaminisedney@gmail.com)**
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,C/C++, fortran ,git,github,kaggle,linux,jupyter notebook" />
 
 ---
 
