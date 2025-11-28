@@ -19,7 +19,7 @@
 - 👯 Looking to collaborate on: **[Types of projects or repos]**
 - 💬 Ask me about: **[Your expertise topics]**
 - 📫 Reach me @example.com)**
----[your.email@example.com](mailto:your.dlaminisedney@gmail.com)**
+---[your.email@example.com](dlaminisedney@gmail.com)**
 
 ## 🛠️ Languages & Tools
 
