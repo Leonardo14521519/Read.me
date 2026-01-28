@@ -29,7 +29,7 @@
 
 ## 📌 Featured Projects
 
-- [Project Name](https://github.com/Leonardo14521519/project1) — Short project description
+- [Using machine learning techniques for cern experiments particle identification](https://github.com/Leonardo14521519/project1) — Short project description
 - [Project Name](https://github.com/Leonardo14521519/project2) — Short project description
 
 ---
